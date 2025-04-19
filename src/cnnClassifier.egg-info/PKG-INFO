@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python project
+Home-page: https://github.com/aayushakshirsagar/DL-Kidney-Disease-Classification
+Author: aayushakshirsagar
+Project-URL: Bug Tracker, https://github.com/aayushakshirsagar/DL-Kidney-Disease-Classification/issues
+Description-Content-Type: text/markdown
+
+# DL-Kidney-Disease-Classification
+
+## CLONE THE REPO
+
+```bash
+https://github.com/aayushakshirsagar/DL-Kidney-Disease-Classification
+```
+### CREATE A CONDA ENVIRONMENT AFTER OPENING THE REPO
+
+```bash 
+conda create -n cnncls python=3.8 -y
+```
+```bash
+conda activate cnncls
+```
+### INSTALL REQUIRED PACKAGES
+```bash
+pip install -r requirements.txt
+```

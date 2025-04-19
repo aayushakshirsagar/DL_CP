@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+logs/
+research/logs/
+
+# Artifacts and model outputs
+artifacts/*
+
+research/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
